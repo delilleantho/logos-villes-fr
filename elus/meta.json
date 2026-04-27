@@ -1,0 +1,22 @@
+{
+  "version": "2024",
+  "source": "data.gouv.fr — Répertoire national des élus (RNE)",
+  "fichiers": {
+    "maires": "maires.json",
+    "deputes": "deputes.json",
+    "senateurs": "senateurs.json",
+    "regionaux": "regionaux.json",
+    "departementaux": "departementaux.json",
+    "europeens": "europeens.json",
+    "municipaux": "communes/{dept}.json"
+  },
+  "description": {
+    "maires": "Indexé par code INSEE commune (5 chiffres)",
+    "deputes": "Indexé par code département (2 chiffres)",
+    "senateurs": "Indexé par code département (2 chiffres)",
+    "regionaux": "Indexé par code région INSEE",
+    "departementaux": "Indexé par code département (2 chiffres)",
+    "europeens": "Liste plate",
+    "municipaux": "Un fichier par département, indexé par code INSEE commune"
+  }
+}
