@@ -9,7 +9,12 @@
     "parti": "Les Républicains",
     "fn_debut": "2015-12-18",
     "naissance": "1974-04-08",
-    "wikipedia": "Laurent_Wauquiez"
+    "wikipedia": "Laurent_Wauquiez",
+    "skill_leadership": "15",
+    "skill_medias": "13",
+    "skill_reseaux": "14",
+    "skill_institutionnel": "15",
+    "skill_ressources": "13"
   },
   {
     "code_region": "27",
@@ -21,7 +26,12 @@
     "parti": "Parti Socialiste",
     "fn_debut": "2015-12-18",
     "naissance": "1960-09-27",
-    "wikipedia": "Marie-Guite_Dufay"
+    "wikipedia": "Marie-Guite_Dufay",
+    "skill_leadership": "11",
+    "skill_medias": "10",
+    "skill_reseaux": "12",
+    "skill_institutionnel": "13",
+    "skill_ressources": "12"
   },
   {
     "code_region": "53",
@@ -33,7 +43,12 @@
     "parti": "Parti Socialiste",
     "fn_debut": "2017-07-10",
     "naissance": "1978-02-04",
-    "wikipedia": "Loïg_Chesnais-Girard"
+    "wikipedia": "Loïg_Chesnais-Girard",
+    "skill_leadership": "12",
+    "skill_medias": "11",
+    "skill_reseaux": "13",
+    "skill_institutionnel": "12",
+    "skill_ressources": "12"
   },
   {
     "code_region": "24",
@@ -45,7 +60,12 @@
     "parti": "Parti Socialiste",
     "fn_debut": "2015-12-18",
     "naissance": "1956-09-04",
-    "wikipedia": "François_Bonneau_(homme_politique)"
+    "wikipedia": "François_Bonneau_(homme_politique)",
+    "skill_leadership": "11",
+    "skill_medias": "9",
+    "skill_reseaux": "13",
+    "skill_institutionnel": "14",
+    "skill_ressources": "12"
   },
   {
     "code_region": "94",
@@ -57,7 +77,12 @@
     "parti": "Femu a Corsica",
     "fn_debut": "2015-12-18",
     "naissance": "1967-09-02",
-    "wikipedia": "Gilles_Simeoni"
+    "wikipedia": "Gilles_Simeoni",
+    "skill_leadership": "14",
+    "skill_medias": "12",
+    "skill_reseaux": "15",
+    "skill_institutionnel": "13",
+    "skill_ressources": "11"
   },
   {
     "code_region": "44",
@@ -69,7 +94,12 @@
     "parti": "Les Républicains",
     "fn_debut": "2017-07-03",
     "naissance": "1968-06-02",
-    "wikipedia": "Jean_Rottner"
+    "wikipedia": "Jean_Rottner",
+    "skill_leadership": "12",
+    "skill_medias": "10",
+    "skill_reseaux": "13",
+    "skill_institutionnel": "13",
+    "skill_ressources": "12"
   },
   {
     "code_region": "32",
@@ -81,7 +111,12 @@
     "parti": "Les Républicains",
     "fn_debut": "2015-12-18",
     "naissance": "1965-03-21",
-    "wikipedia": "Xavier_Bertrand"
+    "wikipedia": "Xavier_Bertrand",
+    "skill_leadership": "15",
+    "skill_medias": "14",
+    "skill_reseaux": "15",
+    "skill_institutionnel": "14",
+    "skill_ressources": "13"
   },
   {
     "code_region": "11",
@@ -93,7 +128,12 @@
     "parti": "Libres!",
     "fn_debut": "2015-12-18",
     "naissance": "1967-07-14",
-    "wikipedia": "Valérie_Pécresse"
+    "wikipedia": "Valérie_Pécresse",
+    "skill_leadership": "14",
+    "skill_medias": "13",
+    "skill_reseaux": "14",
+    "skill_institutionnel": "16",
+    "skill_ressources": "15"
   },
   {
     "code_region": "76",
@@ -105,7 +145,12 @@
     "parti": "Parti Socialiste",
     "fn_debut": "2015-12-18",
     "naissance": "1971-05-05",
-    "wikipedia": "Carole_Delga"
+    "wikipedia": "Carole_Delga",
+    "skill_leadership": "13",
+    "skill_medias": "12",
+    "skill_reseaux": "14",
+    "skill_institutionnel": "14",
+    "skill_ressources": "13"
   },
   {
     "code_region": "52",
@@ -117,7 +162,12 @@
     "parti": "Les Républicains",
     "fn_debut": "2017-07-07",
     "naissance": "1973-10-09",
-    "wikipedia": "Christelle_Morançais"
+    "wikipedia": "Christelle_Morançais",
+    "skill_leadership": "12",
+    "skill_medias": "10",
+    "skill_reseaux": "12",
+    "skill_institutionnel": "13",
+    "skill_ressources": "12"
   },
   {
     "code_region": "75",
@@ -129,7 +179,12 @@
     "parti": "Parti Socialiste",
     "fn_debut": "1998-03-26",
     "naissance": "1953-09-28",
-    "wikipedia": "Alain_Rousset"
+    "wikipedia": "Alain_Rousset",
+    "skill_leadership": "13",
+    "skill_medias": "11",
+    "skill_reseaux": "16",
+    "skill_institutionnel": "15",
+    "skill_ressources": "14"
   },
   {
     "code_region": "28",
@@ -141,7 +196,12 @@
     "parti": "Union des Démocrates et Indépendants",
     "fn_debut": "2015-12-18",
     "naissance": "1961-08-17",
-    "wikipedia": "Hervé_Morin"
+    "wikipedia": "Hervé_Morin",
+    "skill_leadership": "13",
+    "skill_medias": "12",
+    "skill_reseaux": "13",
+    "skill_institutionnel": "14",
+    "skill_ressources": "12"
   },
   {
     "code_region": "93",
@@ -153,6 +213,11 @@
     "parti": "Les Républicains",
     "fn_debut": "2020-12-14",
     "naissance": "1959-04-23",
-    "wikipedia": "Renaud_Muselier"
+    "wikipedia": "Renaud_Muselier",
+    "skill_leadership": "12",
+    "skill_medias": "12",
+    "skill_reseaux": "13",
+    "skill_institutionnel": "13",
+    "skill_ressources": "12"
   }
 ]
